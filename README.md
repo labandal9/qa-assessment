@@ -31,8 +31,9 @@ Clone the repository
 - Install dependencies 
   - npm install
 - Start the application 
-  - Run the frontend locally 
-    - Run the backend and database using Docker: 
+  - Run the frontend locally
+    - npm run dev
+  - Run the backend and database using Docker: 
       - docker-compose up --build
 - Run Cypress tests 
   - Interactive mode (using chrome)
