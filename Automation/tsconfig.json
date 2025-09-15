@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "types": ["cypress", "node"],
+    "target": "es6",
+    "lib": ["es6", "dom"],
+    "moduleResolution": "node",
+    "esModuleInterop": true,
+    "allowJs": true
+  },
+  "include": [
+    "cypress/e2e/**/*.ts",
+    "cypress/support/**/*.ts",
+    "node_modules/cypress/types/cypress-expect.d.ts",
+    "node_modules/cypress/types/mocha/index.d.ts"
+  ],
+  "exclude": []
+}

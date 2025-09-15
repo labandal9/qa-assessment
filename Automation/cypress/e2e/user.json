@@ -1,0 +1,7 @@
+{
+  "email": "user@example.com",
+  "is_active": true,
+  "is_superuser": false,
+  "full_name": "string",
+  "password": "stringst"
+}
