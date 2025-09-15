@@ -39,6 +39,10 @@ Clone the repository
     - npx cypress open
   - Headless mode:
     - npx cypress run
+- Run the following files: (Path: QA-Assessment -> Automation -> cypress -> e2e)
+  - userRegistration.spec.cy
+  - userLogin.cy
+  - userPasswordRecovery.cy
 
 
 📌 Assumptions and Modifications:
